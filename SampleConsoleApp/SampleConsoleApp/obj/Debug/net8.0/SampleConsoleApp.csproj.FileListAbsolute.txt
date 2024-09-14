@@ -1,0 +1,14 @@
+C:\Users\paula\OneDrive\Desktop\SampleConsoleApp\SampleConsoleApp\SampleConsoleApp\bin\Debug\net8.0\SampleConsoleApp.exe
+C:\Users\paula\OneDrive\Desktop\SampleConsoleApp\SampleConsoleApp\SampleConsoleApp\bin\Debug\net8.0\SampleConsoleApp.deps.json
+C:\Users\paula\OneDrive\Desktop\SampleConsoleApp\SampleConsoleApp\SampleConsoleApp\bin\Debug\net8.0\SampleConsoleApp.runtimeconfig.json
+C:\Users\paula\OneDrive\Desktop\SampleConsoleApp\SampleConsoleApp\SampleConsoleApp\bin\Debug\net8.0\SampleConsoleApp.dll
+C:\Users\paula\OneDrive\Desktop\SampleConsoleApp\SampleConsoleApp\SampleConsoleApp\bin\Debug\net8.0\SampleConsoleApp.pdb
+C:\Users\paula\OneDrive\Desktop\SampleConsoleApp\SampleConsoleApp\SampleConsoleApp\obj\Debug\net8.0\SampleConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paula\OneDrive\Desktop\SampleConsoleApp\SampleConsoleApp\SampleConsoleApp\obj\Debug\net8.0\SampleConsoleApp.AssemblyInfoInputs.cache
+C:\Users\paula\OneDrive\Desktop\SampleConsoleApp\SampleConsoleApp\SampleConsoleApp\obj\Debug\net8.0\SampleConsoleApp.AssemblyInfo.cs
+C:\Users\paula\OneDrive\Desktop\SampleConsoleApp\SampleConsoleApp\SampleConsoleApp\obj\Debug\net8.0\SampleConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\paula\OneDrive\Desktop\SampleConsoleApp\SampleConsoleApp\SampleConsoleApp\obj\Debug\net8.0\SampleConsoleApp.dll
+C:\Users\paula\OneDrive\Desktop\SampleConsoleApp\SampleConsoleApp\SampleConsoleApp\obj\Debug\net8.0\refint\SampleConsoleApp.dll
+C:\Users\paula\OneDrive\Desktop\SampleConsoleApp\SampleConsoleApp\SampleConsoleApp\obj\Debug\net8.0\SampleConsoleApp.pdb
+C:\Users\paula\OneDrive\Desktop\SampleConsoleApp\SampleConsoleApp\SampleConsoleApp\obj\Debug\net8.0\SampleConsoleApp.genruntimeconfig.cache
+C:\Users\paula\OneDrive\Desktop\SampleConsoleApp\SampleConsoleApp\SampleConsoleApp\obj\Debug\net8.0\ref\SampleConsoleApp.dll
